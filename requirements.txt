@@ -1,0 +1,18 @@
+# ASCII Path Solver Requirements
+
+# Core dependencies (required for testing and type checking)
+pytest>=7.0.0
+mypy>=1.0.0
+
+# Code quality tools (recommended for development)
+black>=22.0.0
+flake8>=5.0.0
+isort>=5.0.0
+
+# Documentation tools (optional)
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Additional testing tools (optional)
+pytest-cov>=4.0.0
+pytest-xdist>=3.0.0
